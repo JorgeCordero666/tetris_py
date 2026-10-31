@@ -16,7 +16,7 @@ matriz[0][2] = 50
 
 # Modificacion del primer valor de la fila 3, columna 0
 matriz[3][0] = 12
-# Modificacion del valor de la fila 3, columna 2
+# Modificacion del valor de la fila 3, columna 1
 matriz[3][1] = 43
 # Modificacion del valor de la fila 3, columna 3
 matriz[3][3] = 98
